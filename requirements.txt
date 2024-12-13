@@ -1,0 +1,8 @@
+numpy==1.19.5
+scipy  
+pandas
+matplotlib==3.3.3
+joblib
+tqdm
+networkx
+scikit-learn==0.24.2
